@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AndroidAgencementPortraitPaysage</string>
+    <string name="kanade_tachibana">Kanade Tachibana</string>
+    <string name="description_kanade">Kanade est une très belle jeune fille qui a l\'apparence d\'un ange,elle a de longs cheveux blancs lui arrivant au niveau des coudes,elle possède des yeux dorés et une peau très blanche. Elle porte une chemise fermée au maximum, avec une veste beige dont le col et les extrémités de manches sont violet-noir. Elle porte également une jupe assez courte de la même couleur accompagnée de chaussettes lui arrivant aux genoux. C\'est un des plus petits personnages de la série.</string>
+    <string name="best_character_ever">Best character ever</string>
 </resources>
